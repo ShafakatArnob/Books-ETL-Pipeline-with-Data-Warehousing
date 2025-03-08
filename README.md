@@ -39,7 +39,8 @@ The solution is divided into two main parts:
 2. **Environment Variables:**
    Create a `.env` file in the project root with the following content (adjust values as needed):
    ```env
-   HOST=localhost
+   HOST=your_host
+   PORT=your_port
    DATABASE=your_db_name
    USER=your_username
    PASSWORD=your_password
