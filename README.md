@@ -1,4 +1,4 @@
-# Books ETL Pipeline with Data Warehousing (Star-Schema)
+# Books ETL Pipeline with Data Warehousing
 
 This repository contains an end-to-end data pipeline that extracts, transforms, and loads (ETL) book listing data from [Books to Scrape](http://books.toscrape.com/) into a PostgreSQL database (localhost). It then models the data for analytical purposes using a **star schema** data warehouse design.
 
